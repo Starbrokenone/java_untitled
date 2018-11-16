@@ -2,7 +2,7 @@ package µÚ°ËÕÂ;
 import javax.swing.*;
 import java.awt.*;
 
-public class demo8_2 {
+public class Ex8_2 {
     public static void main(String args[]) {
         JFrame frm = new JFrame("Ê¹ÓÃJPanel");
         frm.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
