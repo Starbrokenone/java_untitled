@@ -1,5 +1,4 @@
-package ╣з╟куб;
-import java.awt.BorderLayout;
+package p8;
 import java.awt.event.*;
 import javax.swing.*;
 

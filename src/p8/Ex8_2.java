@@ -1,4 +1,4 @@
-package ╣з╟куб;
+package p8;
 import javax.swing.*;
 import java.awt.*;
 
