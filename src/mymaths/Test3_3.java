@@ -19,15 +19,15 @@ public class Test3_3 implements SortNumber{
     }
 
     public static void main(String []args){
-        int a=5,b=4,c=9;
+        int a=1,b=10,c=8;
         Test3_3 s=new Test3_3();
         int temp=s.maxNum(a, b);
         int temp1=s.maxNum(temp, c);
-        System.out.println("The MaxNum is"+temp1);
+        System.out.println("最大值为"+temp1);
 
         int temp2=s.minNum(a, b);
         int temp3=s.minNum(temp2, c);
-        System.out.println("The MinNum is"+temp3);
+        System.out.println("最小值为"+temp3);
 
     }
 }
